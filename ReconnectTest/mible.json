@@ -1,0 +1,89 @@
+[
+	{
+	"name":"M8",
+	"model":"HTC M8w",
+	"airplane_settings":{"type":"textContains","value":"飞行模式"}
+	},
+	{
+	"name":"HTC M9",
+	"model":"HTC One M9",
+	"airplane_settings":{"type":"textContains","value":"AIRPLANE"}
+	},
+	{
+	"name":"J7",
+	"model":"SM-G610F",
+	"airplane_settings":{"type":"descriptionContains","value":"飞行模式"}
+	},
+	{
+	"name":"Pixel XL",
+	"model":"Pixel XL",
+	"airplane_settings":{"type":"descriptionContains","value":"飞行模式"}
+	},
+	{
+	"name":"Nexus 6P",
+	"model":"Nexus 6P",
+	"airplane_settings":{"type":"descriptionContains","value":"飞行模式"}
+	},
+	{
+	"name":"Moto G5",
+	"model":"Moto G (5) Plus",
+	"airplane_settings":{"type":"textContains","value":"飞行模式"}
+	},
+	{
+	"name":"s6",
+	"model":"SM-G9200",
+	"airplane_settings":{"type":"descriptionContains","value":"飞行"}
+	},
+  	{
+	"name":"s7",
+	"model":"SAMSUNG-SM-G891A",
+	"airplane_settings":{"type":"descriptionContains","value":"飞行"}
+	},
+  {
+	"name":"Nexus 5(6.0)",
+	"model":"Nexus 5",
+	"airplane_settings":{"type":"textContains","value":"飞行模式"}
+	},
+	{
+	"name":"Nexus 5X",
+	"model":"Nexus 5X",
+	"airplane_settings":{"type":"textContains","value":"飞行模式"}
+	},
+	 {
+	"name":"三星note4",
+	"model":"SM-N910C",
+	"airplane_settings":{"type":"descriptionContains","value":"飞行模式"}
+	},
+	 {
+	"name":"飞马",
+	"model":"ASUS_X00GD",
+	"airplane_settings":{"type":"textContains","value":"飞行模式"}
+	},
+	 {
+	"name":"f1s",
+	"model":"A1601",
+	"airplane_settings":{"type":"textContains","value":"飞行模式"}
+	},
+	 {
+	"name":"A9",
+	"model":"SM-A910F",
+	"airplane_settings":{"type":"descriptionContains","value":"飞行模式"}
+	},
+	{
+	"name":"s8",
+	"model":"SM-G955U",
+	"airplane_settings":{"type":"descriptionContains","value":"飞行模式"}
+	},
+	{
+	"name":"s6 edge",
+	"model":"SM-G925F",
+	"airplane_settings":{"type":"descriptionContains","value":"飞行模式"}
+	},
+	{
+	"name":"XAI",
+	"model":"G3116",
+	"airplane_settings":{"type":"descriptionContains","value":"飞行模式"}
+	}
+
+
+]
